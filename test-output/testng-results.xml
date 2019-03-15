@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="177635" started-at="2019-02-18T17:10:59Z" finished-at="2019-02-18T17:13:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="177635" started-at="2019-02-18T17:10:59Z" finished-at="2019-02-18T17:13:57Z">
+      <class name="kwdpackage.KwdSuiteWay2smsRunner">
+        <test-method status="PASS" signature="mymethod()[pri:0, instance:kwdpackage.KwdSuiteWay2smsRunner@4b6995df]" name="mymethod" duration-ms="177592" started-at="2019-02-18T17:10:59Z" finished-at="2019-02-18T17:13:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mymethod -->
+      </class> <!-- kwdpackage.KwdSuiteWay2smsRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
